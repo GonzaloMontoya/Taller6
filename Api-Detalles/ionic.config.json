@@ -1,0 +1,7 @@
+{
+  "name": "Api-Detalles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
